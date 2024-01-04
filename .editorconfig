@@ -1,0 +1,8 @@
+# Top-most EditorConfig file
+root = true
+
+# encode
+[*.cs]
+charset = utf-8
+# UTF-8(BOM•t‚«)‚ğ—˜—p‚µ‚½‚¢ê‡‚ÍˆÈ‰º
+# charset = utf-8-bom
